@@ -15,6 +15,10 @@ public class Automate {
 		driver.get("https://www.google.com");
 		driver.manage().window().maximize();
 
+	// add new class
+	
 	}
+	
+	
 
 }
